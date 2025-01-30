@@ -1,0 +1,62 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+
+header{
+    padding: 20px 0;
+}
+
+.container{
+    display:flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+header .title{
+    display: block;
+    align-items: center;
+    justify-content: center; 
+}
+
+header li a{
+    text-decoration: none;
+}
+
+header .login{
+    list-style: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*Área de cores e tamanhos*/
+
+header{
+    background-color: rgb(68, 18, 11);
+    color:azure;
+    font-size: 24px;
+}
+
+header li a{
+    color:azure;
+    font-size: 22px;
+    font-weight: bold;
+}
+
