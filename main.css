@@ -76,7 +76,7 @@ main{
     place-items: center;
     padding: 50px 0;
     margin-top: 50px;
-    margin-bottom: 180px;
+    margin-bottom: 145px;
 }
 
 .login-box{
@@ -98,6 +98,7 @@ form input, form button{
     width: 320px;
     margin-bottom: 10px;
     border: none;
+    border-radius: 6%;
     font-size: 14px;
 }
 
@@ -106,7 +107,7 @@ form button{
     justify-content: center;
     align-items: center;
     border: 1px solid rgb(53, 13, 8);
-    border-radius: 5%;
+    border-radius: 10%;
     height: 50px;
     padding: 28px 0;
     background-color: rgb(53, 13, 8);
@@ -122,11 +123,20 @@ form button:hover{
     transition: 1s;
 }
 
+form input:focus{
+    outline-color: rgb(41, 9, 2);
+}
+
 #about .container{
     display: block;
     align-items: center;
     text-align: center;
     margin: 50px 0;
+}
+
+#images .container{
+    justify-content: center;
+    align-items: center;
 }
 
 footer{
@@ -165,10 +175,31 @@ header li a{
     font-weight: bold;
 }
 
-#user-login h2{
+#user-login h2, #about h2, #images h2{
     color: aliceblue;
+    text-shadow: 1px 4px rgb(27, 6, 1);
     font-weight: bold;
-    font-size: 64px;
+    font-size: 60px;
     margin-bottom: 20px;
 }
 
+#about h2{
+    font-size: 66px;
+    margin-bottom: 60px;
+}
+
+#about p{
+    font-size: 28px;
+    color: rgb(255, 248, 243);
+    font-weight: bolder;
+    text-shadow: 4px 3px black;
+}  
+
+#about{
+    margin-bottom: 196px;
+}
+
+#images h2{
+    font-size: 45px;
+    margin-bottom: 60px;
+}
