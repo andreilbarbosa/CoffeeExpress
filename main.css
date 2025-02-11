@@ -31,12 +31,13 @@ header .menu{
 
 .menu-box{
     display: flex;
-    text-align: center;
-    padding: 10px 0;
-    border: 3px solid aliceblue;
-    border-radius: 25%;
-    margin: 12px 0;
-
+    text-align: end;
+    padding: 20px 2%;
+    border: 3px solid rgb(41, 9, 2);
+    border-radius: 42%;
+    margin: auto 0;
+    max-width: 350px;
+    width: 100%;
 }
 
 header nav li{
@@ -46,6 +47,11 @@ header nav li{
     margin-right: 30px;
 }
 
+header nav li a:hover{
+    color: rgb(192, 192, 192);
+    transition: ease 0.5s;
+    font-size: 25px;
+}
 
 body{
     background-image: url(https://c1.wallpaperflare.com/preview/776/180/874/coffee-shop-indoors-cafe-restaurant.jpg);
@@ -77,30 +83,43 @@ main{
     display: flex;
     align-items: center;
     justify-content: center;
-    padding: 24px;
+    padding: 52px;
     border: 1px solid rgb(247, 204, 176);
-    width: 330px;
+    width: 380px;
     margin: 6px;
     border-radius: 20%;
     background-color: rgb(247, 204, 176);
 }
 
 form input, form button{
-    padding: 8px 3px;
+    padding: 27px 5px;
     display: block;
     height: 30px;
-    width: 220px;
+    width: 320px;
     margin-bottom: 10px;
     border: none;
+    font-size: 14px;
 }
 
 form button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
     border: 1px solid rgb(53, 13, 8);
     border-radius: 5%;
-    height: 34px;
+    height: 50px;
+    padding: 28px 0;
     background-color: rgb(53, 13, 8);
-    color: aliceblue;
+    color: rgb(217, 233, 247);
     font-weight: bolder;
+    font-size: 17px;
+    cursor: pointer;
+}
+
+form button:hover{
+    background-color: rgb(27, 6, 1);
+    color: white;
+    transition: 1s;
 }
 
 #about .container{
@@ -110,20 +129,12 @@ form button{
     margin: 50px 0;
 }
 
-
-
 footer{
     display: flex;
     align-items: end;
     flex-direction: column-reverse;
     padding: 12px;
 }
-
-
-
-
-
-
 
 
 
@@ -157,7 +168,7 @@ header li a{
 #user-login h2{
     color: aliceblue;
     font-weight: bold;
-    font-size: 48px;
+    font-size: 64px;
     margin-bottom: 20px;
 }
 
