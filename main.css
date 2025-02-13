@@ -134,9 +134,46 @@ form input:focus{
     margin: 50px 0;
 }
 
-#images .container{
+#example .container{
+    display: block;
     justify-content: center;
     align-items: center;
+    text-align: center;
+}
+
+#example{
+    margin-bottom: 250px;
+}
+
+#example h2{
+    font-size: 45px;
+    margin-bottom: 130px;
+}
+
+.photo{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.photo article{
+    width: 40%;
+}
+
+.photo article img{
+    width: 32%;
+    height: 350px;
+    margin-top: 125px;
+    margin-bottom: 40px;
+    border-radius: 20%;
+    cursor: pointer;
+}
+
+.photo article img:hover{
+    height: 352px;
+    transition: ease 0.2s;
+    box-shadow: 3px 2px rgb(41, 9, 2);
 }
 
 footer{
@@ -145,11 +182,6 @@ footer{
     flex-direction: column-reverse;
     padding: 12px;
 }
-
-
-
-
-
 
 
 
@@ -175,8 +207,8 @@ header li a{
     font-weight: bold;
 }
 
-#user-login h2, #about h2, #images h2{
-    color: aliceblue;
+#user-login h2, #about h2, #example h2{
+    color: rgb(255, 206, 70);
     text-shadow: 1px 4px rgb(27, 6, 1);
     font-weight: bold;
     font-size: 60px;
@@ -190,16 +222,11 @@ header li a{
 
 #about p{
     font-size: 28px;
-    color: rgb(255, 248, 243);
+    color: rgb(255, 252, 243);
     font-weight: bolder;
     text-shadow: 4px 3px black;
 }  
 
 #about{
     margin-bottom: 196px;
-}
-
-#images h2{
-    font-size: 45px;
-    margin-bottom: 60px;
 }
