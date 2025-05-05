@@ -11,4 +11,4 @@ A entrega deste exercício consiste em:
 
 #### Pensei em criar uma home de uma cafeteria, onde os clientes podem logar e fazer seus pedidos, com um Sobre e alguns dos itens do cardápio a mostra.  
 
-##### Link Vercel: 
+##### Link Vercel: https://projeto-1-eight-gray.vercel.app
