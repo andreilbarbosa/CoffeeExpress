@@ -1,7 +1,14 @@
-Exercício do curso de FrontEnd Web Developer da EBAC que consiste em:
+## Atividade para praticar HTML e CSS do módulo Projeto 1.
+### Curso Front End Developer - EBAC 
 
-Com base no projeto que criamos durante o módulo, crie um outro site de um tema a seu critério. Exemplos de tema: site pessoal, meu time de futebol, meu game favorito;
+A entrega deste exercício consiste em:
 
-Utilize os elementos de imagens, formulários, títulos e fontes customizadas;
+> Com base no projeto que criamos durante o módulo, crie um outro site de um tema a seu critério. Exemplos de tema: site pessoal, meu time de futebol, meu game favorito;
 
-O site deverá ser hospedado na Vercel e o link deverá nos ser encaminhado pela plataforma.
+> Utilizar os elementos de imagens, formulários, títulos e fontes customizadas;
+
+> O site deverá ser hospedado na Vercel e o link enivado na plataforma do curso.
+
+#### Pensei em criar uma home de uma cafeteria, onde os clientes podem logar e fazer seus pedidos, com um Sobre e alguns dos itens do cardápio a mostra.  
+
+##### Link Vercel: 
