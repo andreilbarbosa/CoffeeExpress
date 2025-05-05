@@ -1,4 +1,4 @@
-## Atividade para praticar HTML e CSS do módulo Projeto 1.
+## Atividade pedida no módulo Projeto 1 para praticar minhas habilidades com HTML e CSS. 
 ### Curso Front End Developer - EBAC 
 
 A entrega deste exercício consiste em:
