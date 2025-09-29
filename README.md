@@ -1,4 +1,4 @@
-## Atividade pedida no módulo Projeto 1 para praticar minhas habilidades com HTML e CSS. 
+## Atividade do módulo Projeto 1. Criação de uma LandingPage para uma coffeeShop ☕ 
 ### Curso Front End Developer - EBAC 
 
 A entrega deste exercício consiste em:
@@ -9,6 +9,6 @@ A entrega deste exercício consiste em:
 
 > O site deverá ser hospedado na Vercel e o link enivado na plataforma do curso.
 
-#### Pensei em criar uma home de uma cafeteria, onde os clientes podem logar e fazer seus pedidos, com um Sobre e alguns dos itens do cardápio a mostra.  
+#### Projeto pensando em ser uma landingPage de uma cafeteria com um Forms no centro da página para cadastro de usuários. Logo abaixo, temos um Sobre e alguns dos itens do cardápio da cafeteria.  
 
 ##### Link Vercel: https://projeto-1-eight-gray.vercel.app
