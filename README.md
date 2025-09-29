@@ -11,4 +11,4 @@ A entrega deste exercício consiste em:
 
 #### Projeto pensando em ser uma landingPage de uma cafeteria com um Forms no centro da página para cadastro de usuários. Logo abaixo, temos um Sobre e alguns dos itens do cardápio da cafeteria.  
 
-##### Link Vercel: https://projeto-1-eight-gray.vercel.app
+##### Link Vercel: https://coffee-express-tau.vercel.app
